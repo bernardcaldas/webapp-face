@@ -10,3 +10,15 @@ follow : https://webapp-facedetect.herokuapp.com/
 ![Screenshot](https://github.com/bernardcaldas/webapp-face/blob/master/streamlit1.png)
 ![Screenshot](https://github.com/bernardcaldas/webapp-face/blob/master/streamlit2.png)
 
+## Instalation
+```
+pip install tensorflow-cpu
+pip install mtcnn
+pip install opencv-python
+pip install numpy
+```
+
+## Run 
+```
+streamlit run app2.py
+```
